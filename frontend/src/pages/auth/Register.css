@@ -1,0 +1,29 @@
+
+
+.register-page {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+.register-left {
+  width: 40%;
+  height: 100%;
+  background-color: #0f1b2d;
+  padding: 48px;
+  display: flex;
+  flex-direction: column;
+ color: #ffffff;
+  justify-content: center;
+}
+
+.register-right {
+  width: 60%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:2
+}
